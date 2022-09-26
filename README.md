@@ -5,6 +5,7 @@
 1. Start the react app
     * `npm start`
 1. Update the `<<ngrok-url>>` in the manifest file (`./manifest`) to that from the started ngrok instance above
+1. Zip the contents of manifest
 1. Add the app to a meeting
 1. Add the app tab to the meeting
 1. In the pre meeting flow open the dialog, and click on the 'Ok' button to submit
