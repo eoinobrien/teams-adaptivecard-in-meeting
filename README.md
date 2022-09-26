@@ -1,3 +1,7 @@
+# Simple app to showcase using adaptive cards in a task module in a Teams meeting 
+
+Using 1.9 version of the SDK.
+
 1. Start ngrok pointing it at 3000
     * `ngrok http -host-header=rewrite 3000`
 1. Install the react app dependencies
